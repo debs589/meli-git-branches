@@ -4,7 +4,3 @@
 *tomate
 *cebola
 *requeijao
-*ovos
-*farinha
-*oleo
-*vinagre
