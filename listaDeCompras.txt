@@ -1,6 +1,10 @@
-*leite
-*pao
-*alface
-*tomate
-*cebola
-*requeijao
+●Leite
+●Pão
+●Alface
+●Tomate
+●Cebola
+●Requeijão
+●Ovos
+●Farinha
+●Óleo
+●Vinagre
